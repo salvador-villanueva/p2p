@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Napster-style-peer-to-peer-P2P-file-sharing-system
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kiran Patrudu
+    family-names: Gopalasetty
+repository-code: >-
+  https://github.com/gkiran315/Napster-style-peer-to-peer-P2P-file-sharing-system
